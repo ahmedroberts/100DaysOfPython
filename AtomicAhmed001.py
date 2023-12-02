@@ -1,5 +1,7 @@
 # ApogeeAOR | Apogee Aor | The 9th RaiKage
 # I have this on Replit https://replit.com/@ahmedroberts/Day001-Band-Name#main.py
+# The Class is on Auditorium https://app.auditorium.ai/courses/eelyNMYJKXeNJAbjssSEQz0m88XvnhX6
+
 
 # 1. Create a greeting for your program.
 print("\n\n\nWelcome to Ahmed's Band Name Generator!\nHe is th 9th RaiKage! \n\n")
