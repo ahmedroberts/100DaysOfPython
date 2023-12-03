@@ -14,3 +14,6 @@ band_pet = input("What was the name of your first pet? \n")
 
 # 4. Combine their city and pet to show them their band name.
 print("Possible band name: " + band_city + " " + band_pet + "\n**********\n")
+
+# 5. Print on multiple lines
+print("\nAhmed The King\nThe 9th Raikage\nHidden Cloud Village")
