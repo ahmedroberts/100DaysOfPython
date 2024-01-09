@@ -1,4 +1,7 @@
-print("9th Raikage will multiply two numbers: ")
+print("\n9th Raikage will multiply two numbers: ")
 num1 = int(input("What is your first number?  "))
 num2 = int(input("What is your second number?  "))
 print(num1 * num2)
+print("\n9th Raikage will count the characters in your name: ")
+userName = input("What's your name? ")
+print("Your name is " + str(len(userName)) + " characters long.\n")
