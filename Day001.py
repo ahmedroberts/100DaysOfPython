@@ -46,14 +46,3 @@ b = c
 # 🚨 Don't change the code below 👇
 print("a: " + a)
 print("b: " + b)
-
-###################### - Day 2 - ######################
-
-# Lesson 005 - Data Types
-two_digit_number = input()
-# 🚨 Don't change the code above 👆
-####################################
-# Write your code below this line 👇
-firstDigit = str(two_digit_number)[0]
-secondDigit = str(two_digit_number)[1]
-print(int(firstDigit) + int(secondDigit))
