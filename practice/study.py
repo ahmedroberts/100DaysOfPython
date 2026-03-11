@@ -4,11 +4,12 @@
 
 print('\n ================== Program Start ====================== \n')
 
+#1. Create a greeting for your program.
+print("Welcome to Ahmed's Band Name Generator!!\n")
 name = input('What is your name?\n')
 print('Hi, %s.' % name)
 
-#1. Create a greeting for your program.
-print("Welcome to Ahmed's Band Name Generator!!")
+
 #2. Ask the user for the city that they grew up in.
 band_city = input("What city did you grow up in? \n ")
 #3. Ask the user for the name of a pet.
