@@ -1,8 +1,6 @@
 # Ahmed O. Roberts
 # The Ninth RaiKage
-# July 1st, 2023 - March 10th, 2026
-
-print('\n ================== Program Start ====================== \n')
+# July 1st, 2023
 
 name = input('What is your name?\n')
 print('Hi, %s.' % name)
@@ -19,5 +17,3 @@ print("Possible band name:\n", band_city, band_pet)
 #5. Make sure the input cursor shows on a new line:
 
 # Solution: https://replit.com/@appbrewery/band-name-generator-end
-
-print('\n ================== Program Ends ====================== \n')
